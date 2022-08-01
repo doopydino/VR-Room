@@ -149,7 +149,7 @@ MonoBehaviour:
   m_InteractionLayers:
     m_Bits: 1
   m_SelectMode: 1
-  m_CustomReticle: {fileID: 8656087483511947524, guid: 50f8d835961353c4a8e0c4b77d7f8876,
+  m_CustomReticle: {fileID: 8656087483511947524, guid: 5dae850bb2085d2439e3686b25048a24,
     type: 3}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -1263,7 +1263,7 @@ PrefabInstance:
     - target: {fileID: 69977859801606237, guid: 7ddd5c018cc2acd4094172e843dc019b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.5
+      value: 1.4
       objectReference: {fileID: 0}
     - target: {fileID: 69977859801606237, guid: 7ddd5c018cc2acd4094172e843dc019b,
         type: 3}
@@ -1465,7 +1465,7 @@ MonoBehaviour:
   m_InteractionLayers:
     m_Bits: 1
   m_SelectMode: 1
-  m_CustomReticle: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+  m_CustomReticle: {fileID: 3521457681945940986, guid: 5f72381d84e60bf4392474933d115f3e,
     type: 3}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -3176,7 +3176,7 @@ MonoBehaviour:
   m_InteractionLayers:
     m_Bits: 1
   m_SelectMode: 1
-  m_CustomReticle: {fileID: 3521457681945940986, guid: 493691fe396bc5c40900e8a234c5c60e,
+  m_CustomReticle: {fileID: 3521457681945940986, guid: 5f72381d84e60bf4392474933d115f3e,
     type: 3}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -3626,7 +3626,7 @@ MonoBehaviour:
   m_InteractionLayers:
     m_Bits: 1
   m_SelectMode: 1
-  m_CustomReticle: {fileID: 8656087483511947524, guid: 50f8d835961353c4a8e0c4b77d7f8876,
+  m_CustomReticle: {fileID: 8656087483511947524, guid: 5dae850bb2085d2439e3686b25048a24,
     type: 3}
   m_FirstHoverEntered:
     m_PersistentCalls:
@@ -4164,7 +4164,7 @@ PrefabInstance:
     - target: {fileID: 3376640532901620240, guid: ab8bc30cac3fdea4ebb6fed84ac46cbd,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3376640532901620240, guid: ab8bc30cac3fdea4ebb6fed84ac46cbd,
         type: 3}
