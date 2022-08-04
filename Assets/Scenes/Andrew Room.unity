@@ -147,7 +147,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 16
   m_SelectMode: 1
   m_CustomReticle: {fileID: 8656087483511947524, guid: 5dae850bb2085d2439e3686b25048a24,
     type: 3}
@@ -1175,7 +1175,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 16
   m_AttachTransform: {fileID: 0}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 0}
@@ -1204,7 +1204,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_SelectActionTrigger: 0
-  m_HideControllerOnSelect: 1
+  m_HideControllerOnSelect: 0
   m_AllowHoveredActivate: 0
   m_PlayAudioClipOnSelectEntered: 1
   m_AudioClipForOnSelectEntered: {fileID: 8300000, guid: 0d9ba9deac23f4ff199b989fe352e768,
@@ -1767,7 +1767,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 16
   m_SelectMode: 1
   m_CustomReticle: {fileID: 3521457681945940986, guid: 5f72381d84e60bf4392474933d115f3e,
     type: 3}
@@ -3642,7 +3642,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 16
   m_SelectMode: 1
   m_CustomReticle: {fileID: 3521457681945940986, guid: 5f72381d84e60bf4392474933d115f3e,
     type: 3}
@@ -5078,7 +5078,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 16
   m_SelectMode: 1
   m_CustomReticle: {fileID: 8656087483511947524, guid: 5dae850bb2085d2439e3686b25048a24,
     type: 3}
